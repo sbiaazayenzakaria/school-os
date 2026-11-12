@@ -1,0 +1,29 @@
+{
+  "title": "Dashboard",
+  "welcomeBack": "Welcome back",
+  "overview": "Overview",
+  "quickActions": "Quick Actions",
+  "recentActivity": "Recent Activity",
+  "recentEnrollments": "Recent Enrollments",
+  "metrics": {
+    "totalStudents": "Total Students",
+    "activeStaff": "Active Staff",
+    "attendanceToday": "Today's Attendance",
+    "outstandingFees": "Outstanding Fees",
+    "newApplications": "New Applications",
+    "pendingApprovals": "Pending Approvals"
+  },
+  "actions": {
+    "newEnrollment": "New Enrollment",
+    "recordAttendance": "Record Attendance",
+    "collectFee": "Collect Fee",
+    "postAnnouncement": "Post Announcement",
+    "viewReports": "View Reports"
+  },
+  "attendanceTrend": "Attendance Trend",
+  "admissionsPipeline": "Admissions Pipeline",
+  "gradeDistribution": "Grade Distribution",
+  "upcomingEvents": "Upcoming Events",
+  "alerts": "Alerts",
+  "noAlerts": "No active alerts"
+}

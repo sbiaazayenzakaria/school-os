@@ -1,0 +1,13 @@
+Features:
+- Student management (CRUD).
+- Teacher and employee management.
+- Class and classroom management.
+- Student enrollment and registration.
+- Attendance overview.
+- Examination and grade management.
+- Timetable management.
+- Tuition and payment tracking.
+- Expense management.
+- Automated reports.
+- School announcements.
+- Dashboard with statistics.

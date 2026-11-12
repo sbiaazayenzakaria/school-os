@@ -1,0 +1,29 @@
+{
+  "title": "Dashboard",
+  "welcomeBack": "Willkommen zurück",
+  "overview": "Übersicht",
+  "quickActions": "Schnellaktionen",
+  "recentActivity": "Letzte Aktivitäten",
+  "recentEnrollments": "Neuanmeldungen",
+  "metrics": {
+    "totalStudents": "Schüler gesamt",
+    "activeStaff": "Aktives Personal",
+    "attendanceToday": "Heutige Anwesenheit",
+    "outstandingFees": "Ausstehende Gebühren",
+    "newApplications": "Neue Bewerbungen",
+    "pendingApprovals": "Ausstehende Genehmigungen"
+  },
+  "actions": {
+    "newEnrollment": "Neue Anmeldung",
+    "recordAttendance": "Anwesenheit erfassen",
+    "collectFee": "Gebühr einziehen",
+    "postAnnouncement": "Ankündigung veröffentlichen",
+    "viewReports": "Berichte anzeigen"
+  },
+  "attendanceTrend": "Anwesenheitstrend",
+  "admissionsPipeline": "Anmeldungspipeline",
+  "gradeDistribution": "Notenverteilung",
+  "upcomingEvents": "Bevorstehende Ereignisse",
+  "alerts": "Warnmeldungen",
+  "noAlerts": "Keine aktiven Warnmeldungen"
+}

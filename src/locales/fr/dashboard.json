@@ -1,0 +1,29 @@
+{
+  "title": "Tableau de bord",
+  "welcomeBack": "Bienvenue",
+  "overview": "Vue d'ensemble",
+  "quickActions": "Actions rapides",
+  "recentActivity": "Activité récente",
+  "recentEnrollments": "Inscriptions récentes",
+  "metrics": {
+    "totalStudents": "Total élèves",
+    "activeStaff": "Personnel actif",
+    "attendanceToday": "Présence du jour",
+    "outstandingFees": "Frais impayés",
+    "newApplications": "Nouvelles candidatures",
+    "pendingApprovals": "Approbations en attente"
+  },
+  "actions": {
+    "newEnrollment": "Nouvelle inscription",
+    "recordAttendance": "Enregistrer la présence",
+    "collectFee": "Encaisser un paiement",
+    "postAnnouncement": "Publier une annonce",
+    "viewReports": "Voir les rapports"
+  },
+  "attendanceTrend": "Tendance des présences",
+  "admissionsPipeline": "Pipeline des admissions",
+  "gradeDistribution": "Distribution des notes",
+  "upcomingEvents": "Événements à venir",
+  "alerts": "Alertes",
+  "noAlerts": "Aucune alerte active"
+}
